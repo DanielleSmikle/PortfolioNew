@@ -11,12 +11,12 @@
 }
 
 :root {
-    --color-bg: pink;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
+    --color-bg: #311432;
+    --color-bg-variant: #B65fcf;
+    --color-primary: #e39ff6;
+    --color-primary-variant: #710193;
     --color-white: #fff;
-    --color-light: rgba(255, 255, 255, 0.6);
+    --color-light: #be93d4;
     --transition: all 400ms ease;
 
     --container-width-lg: 75%;
@@ -52,7 +52,7 @@ h3,
 h4,
 h5{
     font-weight: 500;
-    color: red
+    color: #D5BADB
 }
 
 h1{
